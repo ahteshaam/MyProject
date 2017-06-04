@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 2887-7C66
-
- Directory of C:\Users\dell\Desktop\My Project
-
-06/04/2017  11:53 PM    <DIR>          .
-06/04/2017  11:53 PM    <DIR>          ..
-06/04/2017  11:53 PM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  57,044,934,656 bytes free
+change 1
